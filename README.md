@@ -30,7 +30,7 @@ python train_seg.py
 ```
 python infer.py
 ```
-* An available pretrained weights (in fully supervised case, i.e., trained by ground truth masks) is online: https://drive.google.com/file/d/12oLbmwwEbD8vpGH7QwogSggHNS4eTSiT/view?usp=sharing (mIoU on validation set is 77.78).
+* An available pretrained weights (in fully supervised case, i.e., trained by ground truth masks) is online: https://drive.google.com/file/d/12oLbmwwEbD8vpGH7QwogSggHNS4eTSiT/view?usp=sharing (mIoU on validation set is 77.78%).
 
 #### Evaluation the infered masks using mIoU metric
 ```
