@@ -1,0 +1,8 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Datasource local storage ignored files
+/../../../../../../../../../../../../:\Users\lyuzheng\Documents\work\0Lyu\Research\Code\DeepL\2024_11_submit\DLV2_ResNet_101_Segmentation\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
