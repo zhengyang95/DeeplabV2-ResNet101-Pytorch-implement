@@ -36,3 +36,6 @@ python infer.py
 ```
 python results_evaluation.py
 ```
+## Acknowledgement
+
+This repository is based on work from: https://github.com/kazuto1011/deeplab-pytorch. Thanks for their impressive work.
